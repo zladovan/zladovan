@@ -6,7 +6,7 @@ My official name is **Jan** but on the internet you can usually find me under na
 
 I am **open-minded** person. It's not only common cliché. I really do not like *“black and white thinking”* and arogant people not understanding that their **truth is not valid out of** their **model of thinking**. In opposite I feel very good surrounded by the people do not taking themselves too seriously.
 
-I like to spend my time with
+I like to spend my time with:
 
   - 💻 programming 
   - 🌳 hiking

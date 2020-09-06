@@ -1,6 +1,4 @@
-### Sevas
-
-Wellcome to my GitHub account page.
+### Sevas :: Wellcome to my GitHub account page
 
 My official name is **Jan** but on the internet you can usually find me under name **Zladovan**. I created this nick name years ago based on popular fictional character [Zladko "Zlad!" Vladcik](https://www.youtube.com/watch?v=MNyG-xu-7SQ).
 

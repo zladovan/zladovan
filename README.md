@@ -4,7 +4,7 @@ My official name is **Jan** but on the internet you can usually find me under na
 
 ### Who I am
 
-I am **open-minded** person. It's not only common cliché. I really do not like *“black and white thinking”* and arogant people not understanding that their **truth is not valid out of** their **model of thinking**. In opposite I feel very good surrounded by the people do not taking themselves too seriously.
+I am **open-minded** person. It's not only common cliché. I really do not like *“black and white thinking”*. I understand that **my truth is not valid out of my model of thinking**. I feel very good surrounded by the people do not taking themselves too seriously. 
 
 I like to spend my time with:
 

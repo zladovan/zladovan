@@ -27,7 +27,7 @@ During **10+ years as a professional software developer** I participated on a de
   - 🛠️ configuring automated builds
   - 📈 deploying and monitoring of what I have built
 
-> If you want to know more details about my professional career check out [my CV](CV.pdf) or [LinkedIn profile](https://www.linkedin.com/in/j%C3%A1n-%C4%8Dabala-415408191/).
+> If you want to know more details about my professional career check out [my CV](./CV.pdf) or [LinkedIn profile](https://www.linkedin.com/in/j%C3%A1n-%C4%8Dabala-415408191/).
 
 I must admit that **I do not see myself as an expert in any field** and I doubt I will become an expert one day. It's because I much more **like to explore new stuff** than to go too deep into something I already know. I understand the role of expertise and specialization but I really do not like to see me as a specialized component in the big machine doing the same thing over and over again.
 
